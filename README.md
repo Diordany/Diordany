@@ -3,7 +3,7 @@
 
 <details>
   <summary><h2>Factorio Mods</h2></summary>
-  <div><a href="https://factorio.com/">Factorio</a> is an automation game by <a href="https://www.factorio.com/game/about">Wube Software</a>. Sometimes I like to play around with Factorio's modding API, since it's very well designed. And even though it is presented as a game, it offers a robust simulation environment. Combine that with the excellent API, and an active modding community, and you have a great tool for testing algorithms.</div>
+  <div><a href="https://factorio.com/">Factorio</a> is an automation game by <a href="https://www.factorio.com/game/about">Wube Software</a>. Sometimes I like to play around with Factorio's modding API, since it's very well designed. And even though it is presented as a game, Factorio offers a robust simulation environment. Combine that with the excellent API, and an active modding community, and you have a great tool for testing algorithms.</div>
   <br />
   <div>Below are some Factorio mods that I've worked on and published:</div>
 
