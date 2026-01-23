@@ -1,5 +1,5 @@
-## Welcome
-Hi, I'm Diordany. Welcome to my GitHub profile.
+<h2>Welcome</h2>
+<div>Hi, I'm Diordany. Welcome to my GitHub profile.</div>
 
-## External Links
+<h2>External Links</h2>
 <a href="https://mods.factorio.com/user/Diordany"><img style="width: 48px" alt="Factorio Mods" title="Factorio Mods" src="https://factorio.com/static/img/favicon.ico" /></a>
